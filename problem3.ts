@@ -5,6 +5,8 @@
     return arrays.reduce((acc, curr) => acc.concat(curr), []);
   }
 
+  //   example
+
   console.log(concatenateArrays(["a", "b"], ["c"]));
   console.log(concatenateArrays([1, 2], [3, 4], [5]));
 }

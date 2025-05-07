@@ -7,6 +7,8 @@
     return items.filter((item) => item.rating >= 4);
   }
 
+  //   example
+
   const books = [
     { title: "Book A", rating: 4.5 },
     { title: "Book B", rating: 3.2 },

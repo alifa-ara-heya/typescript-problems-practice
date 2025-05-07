@@ -12,6 +12,8 @@ If the boolean is false, return the string in lowercase. */
     }
   }
 
+  //   example
+
   console.log(formatString("Hello"));
   console.log(formatString("Hello", true));
   console.log(formatString("Hello", false));
